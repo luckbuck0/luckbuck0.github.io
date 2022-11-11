@@ -1,0 +1,74 @@
+.image1{
+  width:50px;
+  float:left;
+}
+.text{
+  font-family: Georgia;
+}
+.Image2{
+  width:50px;
+  padding-left: 25px
+}
+ .Image3{
+  width:50px;
+  padding-left:55px
+}
+.Image4{
+  width:60px;
+  padding-left:40px
+}
+.p345{
+ display:grid;
+  grid-template-columns: 200px 150px 200px
+}
+.Image5{
+  width:170px;
+  ]
+}
+.Image6{
+  width:20px;
+  padding-left: 30px;
+    padding-top:15px
+}
+ .Image7{
+  width:20px;
+  padding-left:25px
+}
+.Image8{
+  width:20px;
+  padding-left:25px;
+  padding-top:20px;
+}
+.t{
+  padding-left:60px
+}
+.Image9{
+ width:50px;
+  padding-left:25px
+}
+
+.Image10{
+ width:40px;
+  padding-left:25px
+}
+
+.Image11{
+ width:40px;
+  padding-left:190px
+}
+.exp{
+  font-size:15px
+}
+.p8{
+   display:grid;
+  grid-template-columns: 320px 250px 00px
+}
+.text{
+  background-color:orange
+}
+.p4{
+  background-color:orange 
+}
+.design{
+  background-color:orange
+}
